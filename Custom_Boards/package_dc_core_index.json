@@ -12,8 +12,8 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/DigitalCodesign/Arduino-trainer-library",
-          "archiveFileName": "DC_Boards.zip",
+          "url": "https://github.com/DigitalCodesign/DC-Boards/blob/main/Custom_Boards/DC-Boards-1.0.0.zip",
+          "archiveFileName": "DC-Boards-1.0.0.zip",
           "checksum": "SHA-256:8508d7f9f77fc878aa414e742b42f10f59d95db7c138a9cfaf28803a4ad6b235",
           "size": "8537511",
           "boards": [
@@ -22,7 +22,7 @@
             }
           ],
           "help": {
-            "online": "http://www.arduino.cc/en/Reference/HomePage"
+            "online": ""
           },
           "toolsDependencies": [
             {
