@@ -12,8 +12,8 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/blob/main/Custom_Boards/Digital-Codesign-Boards-1.0.0.zip",
-          "archiveFileName": "Digital-Codesign-Boards-1.0.0.zip",
+          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/blob/1.0.0/Boards/digital-codesign-boards-1.0.0.zip",
+          "archiveFileName": "digital-codesign-boards-1.0.0.zip",
           "checksum": "SHA-256:8508d7f9f77fc878aa414e742b42f10f59d95db7c138a9cfaf28803a4ad6b235",
           "size": "8481180",
           "boards": [
