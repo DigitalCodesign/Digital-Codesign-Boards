@@ -11,10 +11,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/raw/main/Boards/digital-codesign-boards-1.0.0.zip",
-          "archiveFileName": "avr-1.0.0.zip",
-          "checksum": "SHA-256:77c658d272243f4b17d667dba3e25008af021dad1c1a1b1f981c852d7e133099",
-          "size": "8152769",
+          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/raw/main/Boards/digitalcodesign-1.0.0.zip",
+          "archiveFileName": "digitalcodesign-1.0.0.zip",
+          "checksum": "SHA-256:ea0380db62e3268e23b4c33f368512e4e80a5a6b4ccc64c91af4e903eae3952a",
+          "size": "8566292",
           "help": {
             "online": ""
           },
