@@ -12,10 +12,10 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/blob/1.0.0/Boards/digital-codesign-boards-1.0.0.zip",
+          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/raw/main/Boards/digital-codesign-boards-1.0.0.zip",
           "archiveFileName": "digital-codesign-boards-1.0.0.zip",
-          "checksum": "SHA-256:8508d7f9f77fc878aa414e742b42f10f59d95db7c138a9cfaf28803a4ad6b235",
-          "size": "8481180",
+          "checksum": "SHA-256:ea0380db62e3268e23b4c33f368512e4e80a5a6b4ccc64c91af4e903eae3952a",
+          "size": "8566292",
           "boards": [
             {
               "name": "DC Core"
