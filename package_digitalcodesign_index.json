@@ -3,15 +3,14 @@
     {
       "name": "Digital Codesign Boards",
       "maintainer": "Digital Codesign",
-      "websiteUrl": "https://digitalcodesign.com/",
+      "websiteUrl": "https://digitalcodesign.com",
       "email": "info@digitalcodesign.com",
       "platforms": [
         {
           "name": "DC Core",
           "architecture": "avr",
           "version": "1.0.0",
-          "deprecated": false,
-          "category": "Contributed",
+          "category": "DigitalCodesign",
           "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/raw/main/Boards/digital-codesign-boards-1.0.0.zip",
           "archiveFileName": "digital-codesign-boards-1.0.0.zip",
           "checksum": "SHA-256:ea0380db62e3268e23b4c33f368512e4e80a5a6b4ccc64c91af4e903eae3952a",
@@ -21,9 +20,6 @@
               "name": "DC Core"
             }
           ],
-          "help": {
-            "online": ""
-          },
           "toolsDependencies": [
             {
               "packager": "arduino",
@@ -45,11 +41,6 @@
           "monitorDependencies": []
         }
       ],
-      "tools": [
-      ],
-      "help": {
-        "online": ""
-      }
     }
   ],
   "IsTrusted": true
