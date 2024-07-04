@@ -4,7 +4,7 @@ menu.cpu=Processor
 
 ##############################################################
 
-dc_core_atmega2560.name=DC Core (ATMega2560)
+dc_core_atmega2560.name=MentorBit
 
 dc_core_atmega2560.vid.0=0x2341
 dc_core_atmega2560.pid.0=0x0010
@@ -43,9 +43,9 @@ dc_core_atmega2560.bootloader.low_fuses=0xFF
 dc_core_atmega2560.bootloader.unlock_bits=0x3F
 dc_core_atmega2560.bootloader.lock_bits=0x0F
 
-dc_core_atmega2560.build.usb_product="DC Core"
+dc_core_atmega2560.build.usb_product="MentorBit"
 dc_core_atmega2560.build.usb_manufacturer="Digital Codesign"
-dc_core_atmega2560.build.board=DC_CORE
+dc_core_atmega2560.build.board=MentorBit
 dc_core_atmega2560.build.f_cpu=16000000L
 dc_core_atmega2560.build.core=arduino
 dc_core_atmega2560.build.variant=dc_core
