@@ -1,4 +1,4 @@
-name=Digital Codesign Boards
+name=DigitalCodesign
 version=1.0.0
 
 tools.esp32-arduino-libs.path={runtime.tools.esp32-arduino-libs.path}
