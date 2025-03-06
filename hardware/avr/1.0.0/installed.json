@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "Digital Codesign Boards",
+      "maintainer": "Digital Codesign",
+      "websiteUrl": "https://www.digitalcodesign.com",
+      "Url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/releases/download/1.0.0/package_digital_codesign_index.json",
+      "email": "",
+      "platforms": [
+        {
+          "name": "DC Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "deprecated": false,
+          "category": "Contributed",
+          "url": "https://github.com/DigitalCodesign/Digital-Codesign-Boards/releases/download/1.0.0/digital_codesign_boards-1.0.0.zip",
+          "archiveFileName": "digital_codesign_boards-1.0.0.zip",
+          "checksum": "SHA-256:74652585e0fa19733f170b35de3ba95b6954827cb4f24040286c23dd827191c7",
+          "size": "8447966",
+          "boards": [
+            {
+              "name": "MentorBit"
+            }
+          ],
+          "help": {},
+          "toolsDependencies": [],
+          "discoveryDependencies": [],
+          "monitorDependencies": []
+        }
+      ],
+      "tools": [],
+      "help": {}
+    }
+  ],
+  "IsTrusted": false
+}
